@@ -2,7 +2,7 @@
 Este repositório contém projetos e estudos focados em Ciência de Dados e Machine Learning, abrangendo desde a análise exploratória e tratamento de dados até a construção de modelos preditivos.
 
 ## 🚀 Projetos Principais
-1. **Previsão de Conversão de Leads (LeadsDataset)**
+1. **Previsão de Conversão de Leads (LeadsDataset)**  
 O objetivo principal deste estudo é desenvolver um modelo capaz de prever se um lead será convertido (se tornará um cliente) ou não.
 - **Análise Exploratória:** Identificação de variáveis qualitativas como Lead Origin e Lead Source.
 - **Tratamento de Dados**:
@@ -11,7 +11,7 @@ O objetivo principal deste estudo é desenvolver um modelo capaz de prever se um
 
 - **Tecnologias**: Python, Pandas, Seaborn, Plotly.
 
-## 2. Aprendizado Supervisionado - Saúde Cardiovascular (aprendizado_supervisionado)
+2. **Aprendizado Supervisionado:**  Saúde Cardiovascular  
 Estudo focado na classificação de doenças cardíacas utilizando o dataset heart.csv.
 
 - **Pré-processamento**:
